@@ -29,3 +29,10 @@
 2. Вставляем token, username и id администраторов бота в ```config.py```
 3. Выполняем ```pip install -r requirements.txt```
 4. Запускаем ```main.py```
+
+## ⚙️ Работающий бот
+<h3>Рабочий бот, который был запущен командой COMMUNE:</h3>
+
+<a href="https://t.me/anon_way_bot">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
